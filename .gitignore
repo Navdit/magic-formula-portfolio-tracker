@@ -1,0 +1,19 @@
+# Editor Config file
+.idea/
+.DS_Store
+
+# Compiled Python
+__pycache__/
+*.pyc
+
+# Dependencies
+venv/
+
+# Ephemeral Hoverfly files
+config.yaml
+
+# Data dump files
+backups/
+
+# Project-specific files
+config/
