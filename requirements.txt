@@ -1,3 +1,5 @@
+numpy
+bokeh
 pandas
 plotly
 yfinance
